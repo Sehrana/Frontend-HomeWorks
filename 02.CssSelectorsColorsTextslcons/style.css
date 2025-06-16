@@ -1,0 +1,28 @@
+.highlight{
+    background-color: yellow;
+}
+.text{
+    background-color: aqua;
+    font-size: 8;
+}
+.text-teal{
+    background-color: green;
+    font-size: 8;
+}
+.text-Inside{
+   color: red;
+}
+#outside{
+    background-color: green;
+}
+.blank{
+    background-color: yellow;
+}
+#coding{
+     border: 8px solid purple;
+  outline: purple;
+  color: red;
+  margin: auto;  
+  padding: 16px;
+text-align: left;
+}
